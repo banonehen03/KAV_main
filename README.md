@@ -1,7 +1,7 @@
-<h1> Xin chào, mình là Khuất Anh Việt <img src="https://imgur.com/G2PSysg" width="25"></h1> 
+<h1> Xin chào, mình là Khuất Anh Việt <img src="https://imgur.com/G2PSysg.PNG" width="25"></h1> 
 
 <p align="center">
-    <img align="center" alt="PNG" src="https://imgur.com/G2PSysg" />
+    <img align="center" alt="PNG" src="https://imgur.com/G2PSysg.PNG" />
 </p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
 </p>
